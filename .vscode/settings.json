@@ -1,0 +1,21 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Downloader\\commons-dbcp2-2.9.0-bin\\commons-dbcp2-2.9.0\\commons-dbcp2-2.9.0.jar",
+        "d:\\Downloader\\jar_files\\spring-jdbc-5.2.16.RELEASE.jar",
+        "d:\\Downloader\\jar_files\\spring-tx-5.2.16.RELEASE.jar",
+        "d:\\Downloader\\jar_files\\spring-beans-5.2.16.RELEASE.jar",
+        "d:\\Downloader\\jar_files\\spring-core-5.2.16.RELEASE.jar",
+        "d:\\Downloader\\jar_files\\spring-jcl-5.2.16.RELEASE.jar",
+        "d:\\Downloader\\commons-pool2-2.11.1-bin\\commons-pool2-2.11.1\\commons-pool2-2.11.1.jar",
+        "d:\\Downloader\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49.jar",
+        "d:\\java-jar\\commons-dbcp2-2.9.0-bin\\commons-dbcp2-2.9.0\\commons-dbcp2-2.9.0.jar",
+        "d:\\java-jar\\commons-pool2-2.11.1-bin\\commons-pool2-2.11.1\\commons-pool2-2.11.1.jar",
+        "d:\\java-jar\\jar_files\\spring-beans-5.2.16.RELEASE.jar",
+        "d:\\java-jar\\jar_files\\spring-core-5.2.16.RELEASE.jar",
+        "d:\\java-jar\\jar_files\\spring-jcl-5.2.16.RELEASE.jar",
+        "d:\\java-jar\\jar_files\\spring-jdbc-5.2.16.RELEASE.jar",
+        "d:\\java-jar\\jar_files\\spring-tx-5.2.16.RELEASE.jar",
+        "d:\\java-jar\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49.jar"
+    ]
+}
