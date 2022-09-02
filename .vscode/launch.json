@@ -6,17 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch MyJunitFrameWork",
+            "name": "Launch ReSort",
             "request": "launch",
-            "mainClass": "PublicCode.SelfDefinedJunitAnnotation.MyJunitFrameWork",
-            "projectName": "java_60592bb5"
-        },
-        {
-            "type": "java",
-            "name": "Launch test",
-            "request": "launch",
-            "mainClass": "test",
-            "projectName": "java_60592bb5"
+            "mainClass": "leetCode.ReSort",
+            "projectName": "java_486467c7"
         },
         {
             "type": "java",
@@ -26,9 +19,269 @@
         },
         {
             "type": "java",
-            "name": "Launch Exam",
+            "name": "Launch CompareAge",
             "request": "launch",
-            "mainClass": "java.Exam"
+            "mainClass": "Java.Compare.CompareAge",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnonymousOuterInner",
+            "request": "launch",
+            "mainClass": "Java.InnerClass.AnonymousOuterInner",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticOuterInner",
+            "request": "launch",
+            "mainClass": "Java.InnerClass.StaticOuterInner",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Java.InnerClass.Test",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tests",
+            "request": "launch",
+            "mainClass": "Java.InnerClass.Tests",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnonymousOuterInnerCallBack",
+            "request": "launch",
+            "mainClass": "Java.InnerShiYan.AnonymousOuterInnerCallBack",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultipleEncapsulation",
+            "request": "launch",
+            "mainClass": "Java.InnerShiYan.MultipleEncapsulation",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaTest",
+            "request": "launch",
+            "mainClass": "Java.lambda.LambdaTest",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PathSum50",
+            "request": "launch",
+            "mainClass": "Offer.ChapterEightTree.PathSum50",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SerializeAndDeserialize$Main",
+            "request": "launch",
+            "mainClass": "Offer.ChapterEightTree.SerializeAndDeserialize$Main",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BianWeiCiZu",
+            "request": "launch",
+            "mainClass": "Offer.ChapterFiveHashTable.BianWeiCiZu",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch WaiXingLanguageWhethetSort",
+            "request": "launch",
+            "mainClass": "Offer.ChapterFiveHashTable.WaiXingLanguageWhethetSort",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitCountOnes",
+            "request": "launch",
+            "mainClass": "Offer.ChapterOneInt.BitCountOnes",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxProduct",
+            "request": "launch",
+            "mainClass": "Offer.ChapterOneInt.MaxProduct",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleNum",
+            "request": "launch",
+            "mainClass": "Offer.ChapterOneInt.SingleNum",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllSubsets79",
+            "request": "launch",
+            "mainClass": "Offer.ChapterThirteenBacktracking.AllSubsets79",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyJunitFrameWork",
+            "request": "launch",
+            "mainClass": "PublicCode.SelfDefinedJunitAnnotation.MyJunitFrameWork",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test(1)",
+            "request": "launch",
+            "mainClass": "PublicCode.Test",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestDemo",
+            "request": "launch",
+            "mainClass": "PublicCode.annotationTest.TestDemo",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CouLingQian",
+            "request": "launch",
+            "mainClass": "labuladong.DynamicProgramming.CouLingQian",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoVisibility",
+            "request": "launch",
+            "mainClass": "labuladong.DynamicProgramming.NoVisibility",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch minFallingPathSum",
+            "request": "launch",
+            "mainClass": "labuladong.DynamicProgramming.minFallingPathSum",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "labuladong.nSum.TwoSum",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSumII",
+            "request": "launch",
+            "mainClass": "labuladong.nSum.TwoSumII",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompareVersion",
+            "request": "launch",
+            "mainClass": "leetCode.CompareVersion",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch OneMain",
+            "request": "launch",
+            "mainClass": "thread.ApplicationExample.OneMain",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoMain",
+            "request": "launch",
+            "mainClass": "thread.ApplicationExample.TwoMain",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "thread.CollectionThread.Main",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "thread.GuardedSuspension.Main",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintPersonThread",
+            "request": "launch",
+            "mainClass": "thread.Immutable.PrintPersonThread",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Child",
+            "request": "launch",
+            "mainClass": "thread.Other.Child",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyThread",
+            "request": "launch",
+            "mainClass": "thread.Other.MyThread",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintThread",
+            "request": "launch",
+            "mainClass": "thread.Other.PrintThread",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Printer",
+            "request": "launch",
+            "mainClass": "thread.Other.Printer",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "thread.Other.test",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(2)",
+            "request": "launch",
+            "mainClass": "thread.Semaphore.Main",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(3)",
+            "request": "launch",
+            "mainClass": "thread.SingleThreadedExecution.Main",
+            "projectName": "java_486467c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(4)",
+            "request": "launch",
+            "mainClass": "thread.WeiTuo.Main",
+            "projectName": "java_486467c7"
         }
     ]
 }

@@ -17,5 +17,10 @@
         "d:\\java-jar\\jar_files\\spring-jdbc-5.2.16.RELEASE.jar",
         "d:\\java-jar\\jar_files\\spring-tx-5.2.16.RELEASE.jar",
         "d:\\java-jar\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49.jar"
-    ]
+        
+    ],
+    "maven.view": "flat",
+    "java.configuration.maven.userSettings": "E:\\Environment\\apache-maven-3.8.4\\conf\\settings.xml"
+    
+ 
 }

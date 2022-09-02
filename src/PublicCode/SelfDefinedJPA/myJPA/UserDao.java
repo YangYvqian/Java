@@ -1,8 +1,8 @@
-package PublicCode.SelfDefinedJPA.myJPA;
+// package PublicCode.SelfDefinedJPA.myJPA;
 
-public class UserDao extends BaseDao<User> {
-    @Override
-	public void add(User bean) {
-		super.add(bean);
-	}
-}
+// public class UserDao extends BaseDao<User> {
+//     @Override
+// 	public void add(User bean) {
+// 		super.add(bean);
+// 	}
+// }
