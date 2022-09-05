@@ -14,7 +14,6 @@ public class ReSort {
 
 
         ListNode lists = head;
-        ListNode tail = null;
         ListNode pre = null;
 
         // 尾插后半段节点
@@ -82,7 +81,6 @@ class ListNode {
    
    
            ListNode lists = head;
-           ListNode tail = null;
            ListNode pre = null;
    
            // 尾插后半段节点

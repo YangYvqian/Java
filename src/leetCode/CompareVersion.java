@@ -1,9 +1,5 @@
 package leetCode;
 
-import java.security.Timestamp;
-import java.sql.Time;
-import java.util.Timer;
-
 public class CompareVersion {
 
     public static int compareVersion(String s1,String s2){

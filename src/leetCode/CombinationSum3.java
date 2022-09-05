@@ -3,7 +3,6 @@ package leetCode;
 import java.util.LinkedList;
 import java.util.List;
 
-import javax.print.attribute.standard.Sides;
 
 public class CombinationSum3 {
     public static List<List<Integer>> combinationSum3(int k, int n) {
